@@ -63,3 +63,9 @@ cmake --preset=default
 ```shell
 cmake --build build
 ```
+
+7. run 二进制文件
+```shel
+./build/apiserver
+./build/ws
+```
